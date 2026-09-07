@@ -1,0 +1,27 @@
+LICENSE
+  s_b5770ba419a427::t_29d11132387f31 1-21
+README.md
+  s_b5770ba419a427::t_ac159322a8591e 1-81
+.cursor/rules/secrets-echo-guard.mdc
+  s_b5770ba419a427::t_5013c3ba8175e4 1-44
+CLAUDE.md
+  s_b5770ba419a427::t_f101e47dc8528a 1-79
+codex/AGENTS.md
+  s_b5770ba419a427::t_59d4bcd3fbc2e3 1-39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "a8bba0409195b31cf65df1e7fc6f0197f960f4ef",
+  "prompts": {},
+  "sessions": {
+    "s_b5770ba419a427": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0d2e6d12-cee9-445d-9118-6ba500aa7942",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "GeeksikhSecurity <gurvinder@sayvainc.com>"
+    }
+  }
+}
